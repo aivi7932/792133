@@ -46,4 +46,4 @@ Sukebei Nyaa：支持磁力搜索，适合收藏高清视频原档。
 尽量不点击不明弹窗或下载链接。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/aivi7932/792133 ）</span>
